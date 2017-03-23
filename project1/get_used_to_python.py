@@ -18,11 +18,13 @@ print(all_apples_are_red)
 mileage = 1000.0
 car_info = type(mileage)
 print(car_info)
+print(mileage)
 
 # a string variable
 cat_name = "ZeldaPrincess"
 how_to_call_my_cat = type(cat_name)
 print(how_to_call_my_cat)
+print(cat_name)
 
 #____Functions
 def myfunction(str):
