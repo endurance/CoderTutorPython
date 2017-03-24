@@ -26,8 +26,4 @@ how_to_call_my_cat = type(cat_name)
 print(how_to_call_my_cat)
 print(cat_name)
 
-#____Functions
-def myfunction(str):
-    "i_chose_to_use_an_optional_statement"
-    print(str)
-    return
+
